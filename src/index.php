@@ -1,3 +1,3 @@
 <?php
-    echo "My hostname is" . gethostname();
+    echo "My hostname is: " . gethostname();
 ?>
